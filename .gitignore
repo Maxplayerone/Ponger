@@ -1,0 +1,15 @@
+*.exe
+*.sublime-workspace
+*.pdb
+*.raddbgi
+*.dll
+*.exp
+*.obj
+*.lib
+log.txt
+*.bin
+*.dylib
+*.so
+*.dSYM
+linux
+atlas.png

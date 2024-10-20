@@ -1,0 +1,6 @@
+-bufs
+		>add one ability when clicking upgrades
+		>add more upgrades
+		> (when pause screen) add cheatsheet for upgrades
+-pause screen
+-(?)computer playing
